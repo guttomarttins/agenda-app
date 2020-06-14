@@ -1,0 +1,25 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Nome 01",
+      "telefone": "998764532",
+      "email": "email01@gmail.com",
+      "endereco": "Rua 123, centro, casa 01, Rj"
+    },
+    {
+      "id": 2,
+      "nome": "Nome 02",
+      "telefone": "977654312",
+      "email": "email02@gmail.com",
+      "endereco": "Rua 789, centro, Apt 101, Rj"
+    },
+    {
+      "nome": "vai filhao",
+      "telefone": "3552352",
+      "email": "carlosrj@yandex.com",
+      "endereco": "DO COLEGIO",
+      "id": 3
+    }
+  ]
+}
